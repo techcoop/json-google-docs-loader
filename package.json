@@ -1,6 +1,6 @@
 {
   "name": "json-google-docs-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Webpack loader for json-google-docs, resolves URLs and embeds JSON result in sources.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
